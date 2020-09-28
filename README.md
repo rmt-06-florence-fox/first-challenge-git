@@ -16,3 +16,4 @@
 ## Ekspektasi
 
 > Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya
+> semangat dan saling membantu ya guys
