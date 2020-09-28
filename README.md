@@ -1,15 +1,15 @@
 # First Challenge Git
 
-> Ceritakan sedikit tentang latar belakangmu seperti pendidikan terakhir atau pekerjaan sebelumnya
+Nama saya Eddra Adhim, saya fresh graduate dari jurusan S1 Informatika, Universitas Sebelas Maret, Surakarta. Sekarang saya tinggal di Cilandak Timur, Jakarta Selatan.
 
 ## Latar Belakang
 
-> Motivasi apa yang mendorongmu untuk ikut program coding bootcamp di Hacktiv8?)
+Saya ingin mempelajari react js dan menjadi fullstack developer.
 
 ## Motivasi
 
-> Beri tahu kami, apa yang ingin kamu dapatkan di Hacktiv8 dan apa yang ingin kamu capai setelah lulus dari sini?
+Saya berharap bisa menguasai react js dan react native sehingga dapat membuat website/ mobile app. Dengan begitu saya dapat bekerja di perusahaan mitra hactiv8.
 
 ## Ekspektasi
 
-> Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya
+Tidak ada
