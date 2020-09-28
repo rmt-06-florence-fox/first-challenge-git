@@ -1,6 +1,6 @@
 # First Challenge Git
 
-> Ceritakan sedikit tentang latar belakangmu seperti pendidikan terakhir atau pekerjaan sebelumnya
+> Saya adalah lulusan S1 UNICEF. Saya pernah bekerja di PT XYZ sebagai programmer
 
 ## Latar Belakang
 
