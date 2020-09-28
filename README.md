@@ -1,15 +1,15 @@
 # First Challenge Git
 
-> Ceritakan sedikit tentang latar belakangmu seperti pendidikan terakhir atau pekerjaan sebelumnya
+> Perkenalkan nama Saya Ardyanza seorang lulusan SMK Otomotif dan saat ini tinggal di Bekasi. Sebelumnya saya bekerja di Dealer Motor Honda sebagai IT Support dan PIC CRM.
 
 ## Latar Belakang
 
-> Motivasi apa yang mendorongmu untuk ikut program coding bootcamp di Hacktiv8?)
+> Ingin merubah nasib keluarga yang bisa dibilang termasuk sandwich generation
 
 ## Motivasi
 
-> Beri tahu kami, apa yang ingin kamu dapatkan di Hacktiv8 dan apa yang ingin kamu capai setelah lulus dari sini?
+> Tentunya ingin menjadi developer yang handal dan mendapatkan pekerjaan yang bisa menjamin di masa yang akan datang
 
 ## Ekspektasi
 
-> Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya
+> Ekspektasi saya untuk saat ini adalah lulus dengan nilai terbaik dan bisa langsung membuat hiring partner merecruit saya.
