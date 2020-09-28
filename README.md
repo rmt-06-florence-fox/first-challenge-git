@@ -2,6 +2,7 @@
 
 > Ceritakan sedikit tentang latar belakangmu seperti pendidikan terakhir atau pekerjaan sebelumnya
 
+ Assaamu'alaikum
  Halo perkenalkan saya Syihab Muchsin.
  Saya lulusan Sarjana Administrasi Bisnis dari Universitas Padjadjaran
  Sebelumnya saya bekerja di KOperasi Karyawan Bank Syariah Mandiri sebagai Business Staff untuk Corporate Travel Agent.
@@ -24,3 +25,5 @@
 > Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya
 
  Setelah Lulus dari Bootcamp ini saya berharap dapat bekerja di perusahaan IT/ Start up yang bonafide yang dapat mendukung perkembangan kariri dan skill saya serta dapat meningkatkan kesejahteraan secara pribadi dan berkontribusi bagi perkembangan teknologi Indonesia
+
+ Wassalamu'alaikum
