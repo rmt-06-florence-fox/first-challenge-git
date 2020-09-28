@@ -2,7 +2,7 @@
 
 > Ceritakan sedikit tentang latar belakangmu seperti pendidikan terakhir atau pekerjaan sebelumnya
 
-bekerja sebagai engineer
+bekerja sebagai engineer di toyota
 
 ## Latar Belakang
 
