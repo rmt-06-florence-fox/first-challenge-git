@@ -20,3 +20,5 @@
 
 > Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya
 > jika ada kesempatan aku ingin berkunjung ke HQ hacktiv8 
+
+>rev1: commit message hanya nama lengkap saja 
