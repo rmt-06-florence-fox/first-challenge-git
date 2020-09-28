@@ -1,15 +1,15 @@
 # First Challenge Git
 
-> Ceritakan sedikit tentang latar belakangmu seperti pendidikan terakhir atau pekerjaan sebelumnya
+> pendidikan terakhir saya SMA, sempet kuliah namun gak selesai, pekerjaan terakhir saya jadi bagian sales di salah satu start-up di bandung
 
 ## Latar Belakang
 
-> Motivasi apa yang mendorongmu untuk ikut program coding bootcamp di Hacktiv8?)
+> saya ingin menjadi pribadi yang lebih baik dan pekerjaan yang lebih baik di 2021
 
 ## Motivasi
 
-> Beri tahu kami, apa yang ingin kamu dapatkan di Hacktiv8 dan apa yang ingin kamu capai setelah lulus dari sini?
+> saya ingin menambah ilmu dan yang pasti mendapatkan pekerjaan baru di tahun 2021
 
 ## Ekspektasi
 
-> Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya
+>Mohon bantuannya, saya sanagat ingin belajar dan mendapatkan nilai yang bagus demi masa depan saya yang lebih baik, Aamiin
