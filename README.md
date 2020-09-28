@@ -6,7 +6,7 @@ Pendidikan terakhir saya adalah S1 jurusan Fisika Universitas Indonesia peminata
 ## Latar Belakang
 
 > Motivasi apa yang mendorongmu untuk ikut program coding bootcamp di Hacktiv8?)
-Motivasi saya adalah mengerti cara berpikir dan bekerja software engineer sehingga saya bisa menerapkannya untuk kerja atau proyek saya sendiri
+Motivasi saya adalah mengerti cara berpikir dan bekerja sebagai software engineer sehingga saya bisa menerapkannya untuk pekerjaan saya atau proyek saya sendiri
 
 ## Motivasi
 
