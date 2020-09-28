@@ -13,4 +13,4 @@ saya ingin bekerja di startup ternama dan mendapat gaji yang besar
 ## Ekspektasi
 
 > Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya
-saya ingin bekerja sebagai back end developer setelah lulus dari program Hacktiv8
+saya ingin bekerja sebagai back end developer setelah lulus dari program Hacktiv8 id
