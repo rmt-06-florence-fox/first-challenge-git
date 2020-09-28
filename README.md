@@ -13,4 +13,4 @@
 ## Ekspektasi
 
 > Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya
--Saya cuma ingin belajar dengan benar dan sungguh sungguh. (semoga komitment terus)
+-Saya cuma ingin belajar dengan benar dan sungguh sungguh. (semoga komitment terus) amiin.
