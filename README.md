@@ -4,6 +4,8 @@
 
 ## Latar Belakang
 
+Haloooo
+
 > Motivasi apa yang mendorongmu untuk ikut program coding bootcamp di Hacktiv8?)
 
 ## Motivasi
