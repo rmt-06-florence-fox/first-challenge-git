@@ -16,4 +16,4 @@
 ## Ekspektasi
 
 > Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya
-semoga say bisa lulus dengan perfect :)
+semoga saya bisa lulus dengan perfect :)
