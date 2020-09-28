@@ -27,6 +27,7 @@
  Setelah Lulus dari Bootcamp ini saya berharap dapat bekerja di perusahaan IT/ Start up yang bonafide yang dapat mendukung perkembangan kariri dan skill saya serta dapat meningkatkan kesejahteraan secara pribadi dan berkontribusi bagi perkembangan teknologi Indonesia
 
  Wassalamu'alaikum
-
+ 
+ ttd
  Syihab Muchsin
  muchsin.id
