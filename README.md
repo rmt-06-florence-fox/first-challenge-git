@@ -1,7 +1,7 @@
 # First Challenge Git
 
 > Ceritakan sedikit tentang latar belakangmu seperti pendidikan terakhir atau pekerjaan sebelumnya
-> Aku adalah anak gembala
+> Aku adalah anak gembala yang sangat kuat!
 
 ## Latar Belakang
 
