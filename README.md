@@ -13,4 +13,4 @@
 ## Ekspektasi
 
 > Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya
-> Saya fresh graduate SMA tanpa latar belakang IT apapun. Semoga kakak-kakak bimbingan dapat memberi saya ilmu dan mempunyai kesabaran untuk mengajari murid-murid baru nya.
+> Saya lulusan baru SMA tanpa latar belakang IT apapun. Semoga kakak-kakak bimbingan dapat memberi saya ilmu dan mempunyai kesabaran untuk mengajari murid-murid baru nya.
