@@ -16,4 +16,4 @@
 ## Ekspektasi
 
 > Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya
-> Ingin bisa coding
+> Ingin bisa coding dengan baik dan tertata
