@@ -13,4 +13,4 @@ lulus dapet ilmu dari yang diajarin dan selebihnya
 ## Ekspektasi
 
 > Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya
-Mohon diajarin sampe bisa
+Mohon diajarin sampe bisa please
