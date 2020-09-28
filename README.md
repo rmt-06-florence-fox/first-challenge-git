@@ -16,4 +16,4 @@ Saya ingin mendapatkan ilmu sebanyak yang bisa saya dapatkan, karena saya mempun
 ## Ekspektasi
 
 > Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya
-Saya berekspektasi bahwa Hacktiv8 dapat memberikan ilmu yang mumpuni atau bekal yang cukup untuk saya masuk ke dunia coding.
+Saya berekspektasi bahwa Hacktiv8 dapat memberikan bekal yang cukup untuk saya masuk ke dunia coding.
