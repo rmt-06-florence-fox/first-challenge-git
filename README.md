@@ -16,4 +16,4 @@
 ## Ekspektasi
 
 > Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya
-> Saya sebenarnya sudah belajar otodidak tetapi karena tidak ada arahan, saya jadi tidak bisa fokus mana yang harus dipelajari dulu, mana yang bisa belakangan. Jadi, dengan mengikuti BootCamp ini, saya harap bisa menghasilkan portofolio yang memuaskan.
+> Saya sebenarnya sudah belajar otodidak tetapi karena tidak ada arahan, saya jadi tidak bisa fokus mana yang harus dipelajari dulu, mana yang bisa belakangan. Jadi, dengan mengikuti BootCamp ini, saya berharap bisa menghasilkan portofolio yang memuaskan.
