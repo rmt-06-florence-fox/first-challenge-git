@@ -1,15 +1,15 @@
 # First Challenge Git
 
-> Ceritakan sedikit tentang latar belakangmu seperti pendidikan terakhir atau pekerjaan sebelumnya
+> saya lulus smk ditahun 2013, saya sebelumnya bekerja sebagai spb di salah satu toko retail
 
 ## Latar Belakang
 
-> Motivasi apa yang mendorongmu untuk ikut program coding bootcamp di Hacktiv8?)
+> menambah skill baru dan mencoba jalan programmer
 
 ## Motivasi
 
-> Beri tahu kami, apa yang ingin kamu dapatkan di Hacktiv8 dan apa yang ingin kamu capai setelah lulus dari sini?
+> uang
 
 ## Ekspektasi
 
-> Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya
+> semoga saya lulus dengan nilai memuaskan
