@@ -1,15 +1,15 @@
 # First Challenge Git
 
-> Ceritakan sedikit tentang latar belakangmu seperti pendidikan terakhir atau pekerjaan sebelumnya
+> Hai semua perkenalkan say Mozart Sebastian Mongi, saya memiliki latar belakang yang jauh dari IT gelar sarjana saya adalah ilmu hukum dan telah berkecimpung di dunia sale & marketing selama kurang lebih 7 tahun, pekerjaan terakhir saya sebagai bankir di salah satu perbankan nasional
 
 ## Latar Belakang
 
-> Motivasi apa yang mendorongmu untuk ikut program coding bootcamp di Hacktiv8?)
+> Honestly, saya memiliki ketertarikan di dunia IT semenjak SMP namun entah kenapa tidak meneruskan passion tersebut, sampai pada akhirnya saya menyadari bahwa ilmu coding merupakan kebutuhan di masa depan sama halnya seperti ilmu teknik sipil pada era Orde Baru. Ketika menyadari betapa pentingnya ilmu tersebut saya merasa sudah terlambat untuk masuk kembali ke bangku universitas. Untunglah Hacktiv8 hadir melalui IG ads di timeline IG saya dengan program ISA nya yg sangat menarik sehingga saya bisa mewujudkan impian saya tersebut.
 
 ## Motivasi
 
-> Beri tahu kami, apa yang ingin kamu dapatkan di Hacktiv8 dan apa yang ingin kamu capai setelah lulus dari sini?
+> yang jelas Skillset yang dibutuhkan di dunia kerja dan berguna bagi bangsa dan negara.
 
 ## Ekspektasi
 
-> Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya
+> Wish Me Luck, semoga bisa lulus sampai phase 3 tanpa remidi. Amin
