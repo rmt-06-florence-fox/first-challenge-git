@@ -1,7 +1,7 @@
 # First Challenge Git
 
-> Ceritakan sedikit tentang latar belakangmu seperti pendidikan terakhir atau pekerjaan sebelumnya
-> saya adalah lulusan baru dari Atmajaya
+> Ceritakan sedikit tentang latar belakangmu seperti pendidikan terakhir atau pekerjaan sebelumnya.
+> saya adalah lulusan baru dari Atmajaya. Ingin menambah ilmu.
 
 ## Latar Belakang
 
