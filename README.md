@@ -13,4 +13,4 @@
 ## Ekspektasi
 
 > Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya
-> Baground saya bukan IT, jadi saya mohon untuk pelan-pelan mengajarnya
+> Baground saya bukan IT, jadi saya mohon untuk pelan-pelan mengajarnya, dan step by step nya dilakukan secara rinci
