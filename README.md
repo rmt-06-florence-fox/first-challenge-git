@@ -1,7 +1,7 @@
 # First Challenge Git
 
 > Ceritakan sedikit tentang latar belakangmu seperti pendidikan terakhir atau pekerjaan sebelumnya
-S1
+saya s1 dan sangat antusian dengan dunia pemrograman
 
 ## Latar Belakang
 
@@ -15,3 +15,4 @@ PEKERJAAN
 ## Ekspektasi
 
 > Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya
+tidak ada
